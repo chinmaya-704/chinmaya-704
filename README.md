@@ -21,13 +21,10 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:b122044@iiit-bh.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/chinmaya-sahoo-b47385254/" target="_blank">
+  <a href="https://www.linkedin.com/in/chinmaya-sahoo-b47385254/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/demon_slayer_chini?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
+  <a href="https://instagram.com/demon_slayer_chini?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
