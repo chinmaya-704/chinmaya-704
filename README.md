@@ -32,11 +32,11 @@
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,html,css" alt="Languages" /><br/>
   <!-- Frontend & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=angular,tailwind,vite" alt="Frontend" /><br/>
   <!-- Backend & Databases -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" alt="Backend & DB" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres,redis" alt="Backend & DB" /><br/>
   <!-- DevOps, Cloud & Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,ubuntu,vscode" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,ubuntu,vscode" alt="DevOps & Tools" />
 </div>
 
 ---
