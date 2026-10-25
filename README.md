@@ -41,15 +41,6 @@
 
 ---
 
-### 🚀 Key Projects & Contributions
-
-| System / Project | Stack | Highlights |
-| :--- | :--- | :--- |
-| **[Project Name 1](https://github.com/chinmaya-704/repo-name)** | Next.js, Node.js, PostgreSQL, Docker | Engineered high-throughput RESTful services with automated CI/CD pipelines. |
-| **[Project Name 2](https://github.com/chinmaya-704/repo-name)** | TypeScript, React, Tailwind, Redis | Built interactive, low-latency UI modules with server-state caching strategies. |
-
----
-
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
