@@ -28,7 +28,7 @@
 
 <div align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,html,css" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,csharp,html,css" alt="Languages" /><br/>
   <!-- Frontend & Frameworks -->
   <img src="https://skillicons.dev/icons?i=angular,tailwind,vite" alt="Frontend" /><br/>
   <!-- Backend & Databases -->
