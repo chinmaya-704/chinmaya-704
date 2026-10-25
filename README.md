@@ -8,9 +8,8 @@
   <p><strong>Software Engineer | Full Stack Developer | Distributed Systems & Scalable Web Architectures</strong></p>
 
   <p>
-    <a href="https://linkedin.com/in/chinmaya-sahoo-b47385254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://leetcode.com/u/chinmaya-704/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://www.linkedin.com/in/chinmaya-kumar-sahoo-b47385254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:cksahoo704@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 </div>
 
@@ -67,7 +66,7 @@
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/chinmaya-sahoo-b47385254/">
+  <a href="https://www.linkedin.com/in/chinmaya-kumar-sahoo-b47385254/">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=450&height=50&duration=4000&lines=Let's+connect+on+LinkedIn!;Open+to+collaborations+and+tech+talks." alt="Footer Typing SVG" />
   </a>
 </div>
